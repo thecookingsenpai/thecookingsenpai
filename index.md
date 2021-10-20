@@ -1,5 +1,5 @@
 <center>
-<h1>he Cooking Senpai</h1>
+<h1>The Cooking Senpai</h1>
 <h4>a.k.a. drotosclerosi / drotodev / P.C.(I)</h4>
 <h2>Courtesy Page</h2>
 </center><hr /><center>
