@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @thecookingsenpai
-- >> Crypto enthusiast
+- >> Blockchain developer
+- >> Python developer
+- >> JS Developer
 - >> NFT & Tokens
+- >> Security
+- >> General purpose tools
 - >> Generic forks
-- 📫 TG: @drotodev 
+- 📫 TG: @tcsenpai (https://t.me/tcsenpai) 
 
 
