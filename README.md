@@ -8,4 +8,11 @@
 - >> Generic forks
 - 📫 TG: @tcsenpai (https://t.me/tcsenpai) 
 
+Articles Written:
+
+Blockchains and Security
+- https://aiternalex.com/artificial-intelligence/blockchains-security/
+
+
+
 
