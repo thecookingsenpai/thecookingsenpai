@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thecookingsenpai
+- 👋 Welcome to Blockdrops LLC
 
-- >> Fullstack developer
-- >> Blockchain developer
+- >> Fullstack developers
+- >> Blockchain developers
 
 Current main projects:
 
@@ -11,7 +11,7 @@ Current main projects:
 - The most ambitious ecosystem in the Ethereum network
 
 - >> A secret project
-- If I tell you more, wouldn't be a secret. By the way is not a blockchain. For real. Stop saying it is a blockchain.
+- If we tell you more, wouldn't be a secret. By the way is not a blockchain. For real. Stop saying it is a blockchain.
 
 Tech Used:
 
